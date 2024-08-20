@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palashkaria" alt="palashkaria" /></a> </p>
-
-
 - 💻 I've been working with React/JavaScript since 2015 (React 0.14)
 - 🔭 I’m currently heading front-end developement at [ArangoDB](https://arangodb.com), a multi-modal graph database.
 - 💪🏼 I have previously worked with [Locus.sh](https://locus.sh) - a logistics SaaS platform, & [BureauID](https://bureau.id) - a fintech identity verification SaaS
@@ -36,3 +32,6 @@ Some other fun stuff:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palashkaria&show_icons=true&locale=en" alt="palashkaria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palashkaria" alt="palashkaria" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palashkaria" alt="palashkaria" /></a> </p>
