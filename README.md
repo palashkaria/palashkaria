@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shd8" alt="shd8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palashkaria" alt="palashkaria" /></a> </p>
 
 
 - 💻 I've been working with React/JavaScript since 2015 (React 0.14)
@@ -31,8 +31,8 @@ Some other fun stuff:
 - Porting a backbone application to React currently
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palashkaria&show_icons=true&locale=en&layout=compact" alt="shd8" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palashkaria&show_icons=true&locale=en&layout=compact" alt="palashkaria" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palashkaria&show_icons=true&locale=en" alt="shd8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palashkaria&show_icons=true&locale=en" alt="palashkaria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palashkaria" alt="shd8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palashkaria" alt="palashkaria" /></p>
