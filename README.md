@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### I'm Palash, & I love building web stuff 🚀
 <!--
 **palashkaria/palashkaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shd8" alt="shd8" /></a> </p>
 
 
 - 💻 I've been working with React/JavaScript since 2015 (React 0.14)
