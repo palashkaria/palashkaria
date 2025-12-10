@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Palash, & I love building web stuff 🚀
+### I'm Palash, & I love building things 🚀
 <!--
 **palashkaria/palashkaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
