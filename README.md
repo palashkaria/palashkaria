@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I've been working with React/JavaScript since 2015 (React 0.14)
-- 🔭 I’m currently heading front-end developement at [ArangoDB](https://arangodb.com), a multi-modal graph database.
+- 🔭 Currently tinkering with AI at [Arango](https://arango.ai), a powerful AI platfrom with graph at it's core
 - 💪🏼 I have previously worked with [Locus.sh](https://locus.sh) - a logistics SaaS platform, & [BureauID](https://bureau.id) - a fintech identity verification SaaS
 - 🗒️ I write stuff in the [notes section](https://palash.co/notes) on my website
 
