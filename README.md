@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I've been working with React/JavaScript since 2015 (React 0.14)
-- 🧠 I've been wrangling tokens since 2020
-- 🔭 Currently tinkering with AI at [Arango](https://arango.ai), a powerful AI platfrom with graph at it's core
-- 💪🏼 I was previously at [Locus.sh](https://locus.sh) - a logistics SaaS platform, & [BureauID](https://bureau.id) - a fintech identity verification SaaS
-- 🗒️ I write stuff in the [notes section](https://palash.co/notes) on my website
+- 🔭 Currently tinkering with AI.
+- 🧠 Wrangling tokens since 2020.
+- 💻 Got React/JavaScript-pilled in 2015 (React 0.14)
+- 💪🏼 Teams I collabrate(d) with
+  - [Arango](https://arango.ai), an AI platfrom with a graph DB at it's core
+  - [Locus.sh](https://locus.sh) - a logistics SaaS platform
+  - [BureauID](https://bureau.id) - a fintech identity verification SaaS
+- 🗒️ I write stuff in the [notes section](https://palash.co/notes) on my website (sometimes)
