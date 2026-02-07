@@ -22,4 +22,5 @@ Here are some ideas to get you started:
   - [Arango](https://arango.ai), an AI platfrom with a graph DB at it's core
   - [Locus.sh](https://locus.sh) - a logistics SaaS platform
   - [BureauID](https://bureau.id) - a fintech identity verification SaaS
+  - Various other startups, enabling teams with AI
 - 🗒️ I write stuff in the [notes section](https://palash.co/notes) on my website (sometimes)
