@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently tinkering with AI.
 - 🧠 Wrangling tokens since 2020.
-- 💻 Got React/JavaScript-pilled in 2015 (React 0.14)
+- 💻 React/JavaScript/TypeScript-pilled since 2015 (React 0.14)
 - 💪🏼 Teams I collabrate(d) with
   - [Arango](https://arango.ai), an AI platfrom with a graph DB at it's core
   - [Locus.sh](https://locus.sh) - a logistics SaaS platform
